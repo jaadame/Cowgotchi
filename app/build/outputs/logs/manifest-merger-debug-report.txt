@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ffd0114431fcf146383a5fde8d32f30a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\bb01198987219c5d321d2dd76cbbdbd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c4be161d284a5b5ef2fedd12096b27c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c1200002302d7175a3a719e1f533c2fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\544915bfa60affaaed870e16f14a4d07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fb3157faedb5472ad7218ce692e98fde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7d1578a9f9c8b2d473186eaa0dc6168a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\55eb6ef8e3a45a83d5433be9df1ab73e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4a4165773f7857e4b8970937819b2139\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c65c215aa514054995c14b95581e06e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a6ae4bd59464647be0b10947392a4383\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5035ebea044e911a99e74c15b7652e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\90aaa7e6bee97505860e033a53339466\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:5:5-23:19
+	android:supportsRtl
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.cowgotchi.uco.cowgotchi.Welcome
+ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:15:13-45
+	android:configChanges
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:14:13-74
+	android:theme
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:16:13-51
+	android:name
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:13:13-36
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ffd0114431fcf146383a5fde8d32f30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ffd0114431fcf146383a5fde8d32f30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\bb01198987219c5d321d2dd76cbbdbd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\bb01198987219c5d321d2dd76cbbdbd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c4be161d284a5b5ef2fedd12096b27c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c4be161d284a5b5ef2fedd12096b27c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c1200002302d7175a3a719e1f533c2fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c1200002302d7175a3a719e1f533c2fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\544915bfa60affaaed870e16f14a4d07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\544915bfa60affaaed870e16f14a4d07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fb3157faedb5472ad7218ce692e98fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fb3157faedb5472ad7218ce692e98fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7d1578a9f9c8b2d473186eaa0dc6168a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7d1578a9f9c8b2d473186eaa0dc6168a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\55eb6ef8e3a45a83d5433be9df1ab73e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\55eb6ef8e3a45a83d5433be9df1ab73e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4a4165773f7857e4b8970937819b2139\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4a4165773f7857e4b8970937819b2139\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c65c215aa514054995c14b95581e06e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c65c215aa514054995c14b95581e06e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a6ae4bd59464647be0b10947392a4383\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a6ae4bd59464647be0b10947392a4383\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5035ebea044e911a99e74c15b7652e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5035ebea044e911a99e74c15b7652e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\90aaa7e6bee97505860e033a53339466\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\90aaa7e6bee97505860e033a53339466\AndroidManifest.xml:20:5-44
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+		ADDED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UcoJose\AndroidProjects\Cowgotchi\app\src\main\AndroidManifest.xml
