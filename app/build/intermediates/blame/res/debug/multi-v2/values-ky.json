@@ -4,7 +4,7 @@
             "outputFile": "D:\\UcoJose\\AndroidProjects\\Cowgotchi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jose\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\ffd0114431fcf146383a5fde8d32f30a\\res\\values-ky\\values-ky.xml",
+                    "source": "C:\\Users\\Jose\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\105e7ef4eb4d8fdde8fb89c05b9b56b5\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jose\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\4a4165773f7857e4b8970937819b2139\\res\\values-ky\\values-ky.xml",
+                    "source": "C:\\Users\\Jose\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\3374ef9423353deeb878fb7e217ef724\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

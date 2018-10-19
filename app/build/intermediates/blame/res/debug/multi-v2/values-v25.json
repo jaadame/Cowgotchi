@@ -4,7 +4,7 @@
             "outputFile": "D:\\UcoJose\\AndroidProjects\\Cowgotchi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jose\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\ffd0114431fcf146383a5fde8d32f30a\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\Jose\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\105e7ef4eb4d8fdde8fb89c05b9b56b5\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",
